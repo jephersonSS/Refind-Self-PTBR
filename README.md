@@ -51,12 +51,6 @@ Encontrou algum erro de tradução, texto cortado ou problema de instalação?
 
 Abra uma [Issue](../../issues), preferencialmente acompanhada de uma captura de tela.
 
-## 👤 Créditos
-
-**Revisão, adaptação e desenvolvimento do instalador:** Jepherson Sousa.
-
-Tradução baseada em uma localização comunitária preexistente, com auxílio de inteligência artificial durante o processo de revisão e desenvolvimento.
-
 ## ⚠️ Aviso legal
 
 Este projeto é gratuito, não oficial e não possui vínculo com os desenvolvedores do jogo.
