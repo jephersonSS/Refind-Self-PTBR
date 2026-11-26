@@ -1,7 +1,7 @@
 # 🇧🇷 Refind Self — Tradução PT-BR
 
 <p align="center">
-<img width="320" height="420" alt="image" src="https://github.com/user-attachments/assets/f3484a0f-3903-40f9-b541-af7a8c32cf39" />
+<img width="320" height="620" alt="image" src="https://github.com/user-attachments/assets/f3484a0f-3903-40f9-b541-af7a8c32cf39" />
 </p>
 
 ## 📖 Sobre o projeto
