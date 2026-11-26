@@ -14,9 +14,9 @@ O projeto conta com mais de 1.200 correções linguísticas e contextuais, busca
 
 | Arquivo | Descrição |
 |---|---|
-| [Instalador automático (.zip)](../../releases/latest) | Recomendado — instalação e desinstalação automáticas. |
-| [Instalação manual (.zip)](../../releases/latest) | Para quem prefere instalar manualmente. |
-| [Código-fonte (.zip)](../../releases/latest) | Código-fonte do instalador para consulta. |
+| [Instalador automático (.exe)](https://github.com/jephersonSS/Neon-Abyss-PTBR/releases/download/v1.0.4/Neon_Abyss_PTBR_Instalador_1.0.4.exe) | Recomendado — instalação e desinstalação automáticas. |
+| [Instalação manual (.zip)](https://github.com/jephersonSS/Neon-Abyss-PTBR/releases/download/v1.0.4/Neon_Abyss_PTBR.-.Instalacao.manual.rar) | Para quem prefere instalar manualmente. |
+| [Código-fonte (.zip)](https://github.com/jephersonSS/Neon-Abyss-PTBR/releases/download/v1.0.4/Neon_Abyss_PTBR_Instalador_1.0.4_Fonte.zip) | Código-fonte do instalador para consulta. |
 
 ## 📋 Informações
 
